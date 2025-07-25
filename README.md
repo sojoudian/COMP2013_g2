@@ -28,7 +28,7 @@ To use this configuration on your Debian virtual machine:
 
 3. **Download the custom configuration**:
    ```bash
-   sudo curl -o /etc/nginx/nginx.conf https://raw.githubusercontent.com/<your-username>/nginx-bridge-config/main/nginx.conf
+   https://raw.githubusercontent.com/sojoudian/COMP2013_g2/refs/heads/master/nginx.conf
    ```
 
    > 🔁 Replace `<your-username>` with your actual GitHub username.
